@@ -14,8 +14,9 @@
 > - [ ] Criar um projeto Java, conforme os capítulos anteriores, e implemente todas as classes do projeto Fintech.
 > - [ ] Não se esqueça de utilizar o encapsulamento para proteger os atributos e métodos.
 > - [ ] Os métodos gets e sets não aparecem no diagrama de classe, mas devem existir no seu código.
-> - [ ] Implementar uma classe de teste com o método main, escolha duas classes implementadas e crie objetos, instanciando-as (Exemplo: Conta conta = new Conta()). Coloque alguns valores em seus atributos e invoque seus métodos.
-> - [ ] Ajustar o Diagrama de Classe para mapear as classes que utilizam herança. Faça as modificações utilizando a notação de generalização ou herança que foi vista no capítulo “Diagramando as Estruturas!”.
+> - [ ] Implementar uma classe de teste com o método main, escolha duas classes implementadas e crie objetos, instanciando-as.
+> - [ ] Ajustar o Diagrama de Classe para mapear as classes que utilizam herança.
+> - [ ] Fazer as modificações utilizando a notação de generalização ou herança.
 > - [ ] Modificar o código-fonte para implementar a herança nas classes Java, de acordo com o diagrama de classe que foi ajustado. Crie os construtores para as superclasses e subclasses.
 
 # Integrantes trabalhando nesse repositório
